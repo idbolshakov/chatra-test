@@ -1,0 +1,10 @@
+# builds
+build/
+node_modules/
+
+# vim
+.swp
+.swo
+
+# config
+.env
